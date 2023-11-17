@@ -17,3 +17,11 @@ Haskell, with its strong static typing and purity, offers unique approaches to p
 ## Contributing
 
 Contributions are welcome! If you have a Haskell solution for a LeetCode problem that isn't already in this repository, feel free to open a pull request.
+
+## License
+
+This repository is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Happy Coding!
